@@ -8,7 +8,7 @@
 | 04            | ListView and Card Layout         |   https://github.com/mohd88798/Exp4_MAD_lab                                                    |
 | 05            | Firebase Authentication Service  |   https://github.com/mohd88798/Exp5_MAD_lab                                                   |
 | 06            | Routes and Consume API           |   https://github.com/allenjoshua16/Exp6_MAD_lab.git          |
-| 07            | Navigation Drawer                |    link                                                     |
+| 07            | Navigation Drawer                |   https://github.com/allenjoshua16/Exp7_MAD_lab.git                                                    |
 | 08            | -                                |    link                                                     |
 | 09            | -                                |    link                                                     |
 | 10            | -                                |    link                                                     |
