@@ -12,4 +12,4 @@
 | 08            | -                                |    link                                                     |
 | 09            | -                                |    link                                                     |
 | 10            | -                                |    link                                                     |
-| Mini-Project  |                                  |    link                                                     |
+| Mini-Project  |                                  |   https://github.com/Lavenababu/MemeGenerator_Flutter.git                                                     |
